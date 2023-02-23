@@ -1,0 +1,24 @@
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #eb6564;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+}
+h1{
+    font-size: 100px;
+    color: whitesmoke;
+}
+p{
+    font-size: x-large;
+    font-weight: bolder;
+    color: white;
+    padding-top: 3rem;
+}
+img{
+    width: 80px;
+    height: 80px;
+    padding: 20px;
+}
